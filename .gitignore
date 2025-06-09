@@ -28,3 +28,6 @@ Desktop.ini
 
 # その他
 *.swp
+
+# Node.js
+node_modules/
